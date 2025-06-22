@@ -71,6 +71,7 @@ function draw() {
     stroke(30)
     textSize(30)
     text("HONDA VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
     
     //PARAR O PROGRAMA
     noLoop()
@@ -81,6 +82,8 @@ function draw() {
     stroke(30)
     textSize(30)
     text("FIAT VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
+
     noLoop()
   }
   
@@ -89,6 +92,8 @@ function draw() {
     stroke(30)
     textSize(30)
     text("TOYOTA VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
+
     noLoop()
   }
   
@@ -97,6 +102,7 @@ function draw() {
     stroke(30)
     textSize(30)
     text("VW VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
     noLoop()
   }
   
@@ -105,6 +111,7 @@ function draw() {
     stroke(30)
     textSize(30)
     text("MCLAREN VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
     noLoop()
   }
   
@@ -113,6 +120,7 @@ function draw() {
     stroke(30)
     textSize(30)
     text("CHEVROLET VENCEU", 50, 300)
+    text("APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE", 50, 350)
     noLoop()
   }
   
