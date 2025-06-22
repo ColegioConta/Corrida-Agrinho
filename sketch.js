@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 820)
+  createCanvas(805, 1700) 
   
   //ADICIONAR ALEATORIEDADE
   n1 = random(1, 1.2)
@@ -113,7 +113,7 @@ function draw() {
     fill("gray")
     stroke(30)
     textSize(30)
-    text("CHEVROLET VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("CHEVROLET VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300, 700)
     noLoop()
   }
   
