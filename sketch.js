@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(805, 1700) 
+  createCanvas(425, 1700) 
   
   //ADICIONAR ALEATORIEDADE
   n1 = random(1, 1.2)
@@ -70,7 +70,7 @@ function draw() {
     
     stroke(30)
     textSize(30)
-    text("HONDA VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("HONDA VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     
     //PARAR O PROGRAMA
     noLoop()
@@ -80,7 +80,7 @@ function draw() {
     fill("red")
     stroke(30)
     textSize(30)
-    text("FIAT VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("FIAT VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     noLoop()
   }
   
@@ -88,7 +88,7 @@ function draw() {
     fill("purple")
     stroke(30)
     textSize(30)
-    text("TOYOTA VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("TOYOTA VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     
     noLoop()
   }
@@ -97,7 +97,7 @@ function draw() {
     fill("green")
     stroke(30)
     textSize(30)
-    text("VW VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("VW VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     noLoop()
   }
   
@@ -105,7 +105,7 @@ function draw() {
     fill("blue")
     stroke(30)
     textSize(30)
-    text("MCLAREN VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300)
+    text("MCLAREN VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     noLoop()
   }
   
@@ -113,7 +113,7 @@ function draw() {
     fill("gray")
     stroke(30)
     textSize(30)
-    text("CHEVROLET VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 50, 300, 700)
+    text("CHEVROLET VENCEU. APERTE F5 OU PLAY PARA SIMULAR NOVAMENTE.", 20, 300, 350)
     noLoop()
   }
   
